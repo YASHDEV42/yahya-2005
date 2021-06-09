@@ -1,3 +1,5 @@
-Yahya
-I'm learning React js
-16 yo
+Yahya,
+
+I'm learning React js,
+
+16 yo,
